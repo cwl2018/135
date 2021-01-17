@@ -1,4 +1,4 @@
-###Simple Accounting System
+###Simple Accounting System###
 
 ***Assumptions & Remarks:***
 
