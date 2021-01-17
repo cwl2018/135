@@ -1,6 +1,4 @@
-# ENGG 1340 Project 
-### by Chan Wang Leung (3035568790)
-### Topic 4 : Accounting System
+###Simple Accounting System
 
 ***Assumptions & Remarks:***
 
